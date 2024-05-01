@@ -18,3 +18,5 @@ plt.show()
 ```
 ![53b42c63-becd-4d7a-ac07-724399df77a4](https://github.com/kamalnadh219/DataScience/assets/98703042/771f80c2-1be7-4faa-a28a-c698fac00e48)
 
+<a href="https://www.youtube.com/watch?v=r75BPh1uk38">YouTube Video: Histograms Tutorial</a>
+
