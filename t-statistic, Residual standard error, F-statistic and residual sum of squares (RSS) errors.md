@@ -36,4 +36,4 @@ Residual Sum of Squares (RSS): 2102.5305831313517<br>
 
 
 
-<a href="https://www.youtube.com/watch?v=8jazNUpO3lQ">Data Set Tutorial</a>
+<a href="https://www.kaggle.com/datasets/bumba5341/advertisingcsv">Data Set Tutorial</a>
